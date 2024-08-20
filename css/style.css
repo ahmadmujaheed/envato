@@ -1,11 +1,11 @@
 @font-face{
     font-family: envo1;
-    src: url("./font/envo1.woff2");
+    src: url("../font/envo1.woff2");
 }
 
 @font-face{
     font-family: envo2;
-    src: url("./font/envo2.woff2");
+    src: url("../font/envo2.woff2");
 }
 
 body{
@@ -40,7 +40,7 @@ body{
 }
 
 nav{
-    background-image: url("./images/header-right-img.png");
+    background-image: url("../images/header-right-img.png");
     border-bottom: 3.5px solid #509FB9;
 
 }
@@ -104,7 +104,7 @@ nav{
 }
 
 .section_one{
-    background-image: url("./images/slider-bg.jpg");
+    background-image: url("../images/slider-bg.jpg");
     height: 440px;
 }
 .section_one_text{
@@ -150,7 +150,7 @@ nav{
 }
 
 .section_two{
-    background-image: url("./images/clouds.jpg");
+    background-image: url("../images/clouds.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -301,7 +301,7 @@ nav{
 }
 
 .header_border{
-    background-image: url(/images/heading-divider.png);
+    background-image: url("../images/heading-divider.png");
     width: 80%;
     /* background-position-x: 0px; */
     background-position-y: 13px;
